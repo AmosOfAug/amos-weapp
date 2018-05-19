@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class='mainpage'>
+  <view class="container" wx:key="{{datas}}">
+    <span>{{index}}</span>
+  </view>
+</view>
